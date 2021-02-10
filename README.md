@@ -1,1 +1,1 @@
-# pg1926_odevler
+# pg1926 egitiminde verilen problem setlerinin cozumleri
