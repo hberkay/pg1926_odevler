@@ -1,4 +1,4 @@
-Bu Projeyi "Hüseyin Berkay Korucu" ile birliklte geliştirdim - hberkay2001@gmail.com
+Bu Projeyi "Ahmet Furkan Dağlı" ile birliklte geliştirdim - ahmettece@hotmail.com
 
 Bu projeyi yaparken  amacımız bu evde uzun vakitler geçirip arkadaşlarımızla online iletişim kurduğumuz dönemde hava durumunu sohbet ettiğimiz programda görememenin eksikliğini hissettik.
 Kullandığımız iletişim programı olan discordun bize sunmuş olduğu mesaj botu oluşturma imkanını kullanarak hava durumunu otomatik olarak mesaj atan bir bot geliştirdik .
@@ -7,4 +7,6 @@ Botumuza ileride eklenebilecek özellikler.
 -pandemide olduğumuz günlerde bulunduğu bölgeye göre hava durumunun yanında pandemi hakkında veriler sunması.
 -şehir ve bölge şeçme özelliği.
 -namaz vakitlerinin bildirimi.
+-Otomatik rol verme.
+-Getirilecek özelliklerden hakkında bildirim almak istediğin özelliği seçme. 
 -ve daha fazlası .
